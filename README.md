@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ArnosVoldigoard
 - 👀 I’m interested in Hacking, Coden and learning
-- 🌱 I’m currently learning Hacken and Coden
+- 🌱 I’m currently learning Hackinng and Coden
 - 💞️ I’m looking to collaborate on People they can Teach me things like, Passwords hacks, Account hacking and how to kill a Website.
-- 📫 How to reach me: Outlook.
+- 📫 How to reach me: Outlook. Outlook Link or email Address
 
 <!---
 ArnosVoldigoard/ArnosVoldigoard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
